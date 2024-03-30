@@ -1,0 +1,4 @@
+(library
+ (name oisp)
+ (libraries core)
+ (wrapped false))
